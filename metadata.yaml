@@ -1,4 +1,8 @@
 _repo: Clothing-and-Health-An-Elementary-Textbook-of-Home-Making_47585
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47585-h/images/i_coverpage.jpg
 creator:
   authors:
   - agent_name: Kinne, Helen
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '40824'
     url: http://www.gutenberg.org/2009/agents/40824
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47585#Clothing-and-Health-An-Elementary-Textbook-of-Home-Making
 gutenberg_issued: '2014-12-08'
 gutenberg_type: Text
 identifiers:
